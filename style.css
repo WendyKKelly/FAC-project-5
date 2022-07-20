@@ -7,7 +7,7 @@ body {
   .slider {
     width: 100%;
     max-width: 800px;
-    height: 350px;
+    height: 400px;
     position: relative;
     overflow: hidden; 
     border-radius: 2rem;
@@ -16,7 +16,7 @@ body {
   .slide {
     width: 100%;
     max-width: 800px;
-    height: 350px;
+    height: 400px;
     position: absolute;
     transition: all 0.5s;
   }
@@ -36,7 +36,7 @@ body {
     border-radius: 50%;
     z-index: 10px;
     cursor: pointer;
-    background-color: red;
+    background-color: #fff;
     font-size: 18px;
   }
   
