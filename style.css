@@ -6,8 +6,8 @@ body {
   
   .slider {
     width: 100%;
-    max-width: 48vw;
-    height: 27vh;
+    max-width: 100vw;
+    max-height: 85vh;
     position: relative;
     overflow: hidden; 
     
@@ -16,8 +16,8 @@ body {
   
   .slide {
     width: 100%;
-    max-width: 48vw;
-    height: 27vh;
+    max-width: 100vw;
+    max-height: 85vh;
     box-sizing: border-box;
     padding: 10px;
     position: absolute;
