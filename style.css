@@ -7,7 +7,7 @@ body {
   .slider {
     width: 100%;
     max-width: 100vw;
-    max-height: 85vh;
+    height: 85vh;
     position: relative;
     overflow: hidden; 
     
@@ -17,7 +17,7 @@ body {
   .slide {
     width: 100%;
     max-width: 100vw;
-    max-height: 85vh;
+    height: 85vh;
     box-sizing: border-box;
     padding: 10px;
     position: absolute;
@@ -48,11 +48,11 @@ body {
   }
   
   .btn-prev {
-    top: 45%;
+    top: 25%;
     left: 2%;
   }
   
   .btn-next {
-    top: 45%;
+    top: 25%;
     right: 2%;
   }
